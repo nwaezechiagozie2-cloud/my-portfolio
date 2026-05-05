@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Admin Platform",
+  "description": "A personal portfolio website with a secure Admin CRUD interface to manage content dynamically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
